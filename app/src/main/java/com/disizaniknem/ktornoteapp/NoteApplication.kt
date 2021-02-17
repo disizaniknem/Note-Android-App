@@ -12,4 +12,5 @@ class NoteApplication : Application() {
         Timber.plant(Timber.DebugTree())
     }
 
+
 }
